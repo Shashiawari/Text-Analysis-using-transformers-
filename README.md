@@ -62,13 +62,6 @@ Deploy model using FastAPI or Flask.
 🤝 Contributing
 Feel free to submit issues or pull requests! 🚀
 
-📝 License
-This project is open-source under the MIT License.
 
-yaml
-Copy
-Edit
-
----
 
 
