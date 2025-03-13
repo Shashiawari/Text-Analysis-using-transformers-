@@ -17,8 +17,7 @@ This project implements **sentiment classification** using **transformers** (BER
 ## 🔧 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-transformers.git
-   cd sentiment-analysis-transformers
+   git clone https://github.com/shashiawari/Text-Analysis-using-transformers.git
 Install dependencies:
 bash
 Copy
