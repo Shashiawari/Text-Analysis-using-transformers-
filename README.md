@@ -71,10 +71,4 @@ Edit
 
 ---
 
-## **📄 Resume Description**
-**Sentiment Analysis Using Transformers**  
-Developed a **text sentiment classification model** using **BERT transformers**. The project processes text data, tokenizes input, and fine-tunes a **BERT-based model** for multi-class sentiment analysis. Evaluated model performance with **accuracy, precision, recall, F1-score, and confusion matrix**. Achieved **35% accuracy** on the test dataset and visualized results through **training loss and accuracy graphs**.  
 
-🚀 **Technologies**: Python, Transformers (Hugging Face), PyTorch, Scikit-learn, Pandas, Seaborn, Matplotlib.  
-
----
